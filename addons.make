@@ -1,0 +1,4 @@
+ofxOsc
+ofxXmlSettings
+ofxSimpleSerial
+ofxUI
